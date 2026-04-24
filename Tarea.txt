@@ -1,4 +1,0 @@
-Estimado estudiante, usted a sido seleccionado para realizar la interfaz de usuarios de los cajeros automaticos del grupo santander. 
-El programa debe solicitar numero de rut, el cual debe ser validado con su numero de verificacion (el que va despues del - (ejemplo -0, -k))
-posteriormente a eso, el usuario debe introducir su clave, que no deberia ser exactamente 10 digitos o caracteres
-usar try para validar
